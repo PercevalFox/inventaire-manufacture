@@ -2,13 +2,10 @@
 
 ## Postes de production
 
-| Groupe | Poste      | Pilote    | Machine                     |
-| ------ | ---------- | --------- | --------------------------- |
-| 0      | Réception  | Formateur | Quai A                      |
-| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 2 |
-| 3      | Assemblage | Jérémy    | Ligne d'assemblage numero 2 |
-| 3      | Assemblage | Mickaël   | Ligne d'assemblage numero 2 |
-| 3      | Assemblage | Solène    | Ligne d'assemblage numero 2 |
+| Groupe | Poste      | Pilote    | Machine                     | Equipe                           |
+| ------ | ---------- | --------- | --------------------------- | -------------------------------- |
+| 0      | Réception  | Formateur | Quai A                      | TOUT SEUL                        |
+| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 2 | Jérémy, Solène, Mickaël, Gautier |
 
 ## Règles de contribution
 
