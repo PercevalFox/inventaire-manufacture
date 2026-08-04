@@ -1,12 +1,14 @@
 # Inventaire de la manufacture
 
-
-
 ## Postes de production
 
-| Groupe | Poste | Pilote | Machine |
-|--------|-------|--------|---------|
-| 0 | Réception | Formateur | Quai A |
+| Groupe | Poste      | Pilote    | Machine                     |
+| ------ | ---------- | --------- | --------------------------- |
+| 0      | Réception  | Formateur | Quai A                      |
+| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 2 |
+| 3      | Assemblage | Jérémy    | Ligne d'assemblage numero 2 |
+| 3      | Assemblage | Mickaël   | Ligne d'assemblage numero 2 |
+| 3      | Assemblage | Solène    | Ligne d'assemblage numero 2 |
 
 ## Règles de contribution
 
