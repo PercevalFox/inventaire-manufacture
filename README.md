@@ -2,10 +2,11 @@
 
 ## Postes de production
 
-| Groupe | Poste      | Pilote    | Machine                     | Equipe                           |
-| ------ | ---------- | --------- | --------------------------- | -------------------------------- |
-| 0      | Réception  | Formateur | Quai A                      | TOUT SEUL                        |
-| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 2 | Jérémy, Solène, Mickaël, Gautier |
+| Groupe | Poste      | Pilote       | Machine                     | Equipe                                          |
+| ------ | ---------- | ---------    | --------------------------- | ----------------------------------------------- |
+| 0      | Réception  | Formateur    | Quai A                      | TOUT SEUL                                       |
+| 3      | Assemblage | Gautier      | Ligne d'assemblage numero 2 | Jérémy, Solène, Mickaël, Gautier                |
+| 1      | Soudure    | Jessica      | Poste MIG 3                 | Jessica, Abdourahmane, GautHier, Hicham, Mahery |
 
 ## Règles de contribution
 

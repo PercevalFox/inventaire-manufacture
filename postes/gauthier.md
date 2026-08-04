@@ -1,0 +1,3 @@
+- Poste : Soudure
+- Machine : Poste MIG 2
+- Consigne : Port du masque obligatoire
