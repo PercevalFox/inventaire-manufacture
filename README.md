@@ -1,5 +1,7 @@
 # Inventaire de la manufacture
 
+
+
 ## Postes de production
 
 | Groupe | Poste | Pilote | Machine |
