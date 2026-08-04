@@ -1,12 +1,11 @@
 # Inventaire de la manufacture
 
-
-
 ## Postes de production
 
-| Groupe | Poste | Pilote | Machine |
-|--------|-------|--------|---------|
-| 0 | Réception | Formateur | Quai A |
+| Groupe | Poste     | Pilote    | Machine              | Equipe                        |
+| ------ | --------- | --------- | -------------------- | ----------------------------- |
+| 0      | Réception | Formateur | Quai A               |                               |
+| 4      | Emballage | Benjamin  | Banderolles numero 3 | Alaric, Claire, Louis, Thomas |
 
 ## Règles de contribution
 
