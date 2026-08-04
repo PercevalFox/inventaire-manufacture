@@ -1,0 +1,3 @@
+- Poste : Emballage
+- Machine : Banderolles numero 3
+- Consigne : Contrôler l'étiquette avant filmage
