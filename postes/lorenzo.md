@@ -1,3 +1,3 @@
 - Poste : Peinture
-- Machine : Cabine de peinture numero 3
+- Machine : Cabine de peinture numero 4
 - Consigne : Ventilation obligatoire avant entrée
