@@ -1,0 +1,3 @@
+- Poste : Assemblage
+- Machine : Ligne d'assemblage numero 2
+- Consigne : Verifier le couple de serrage toutes les heures
