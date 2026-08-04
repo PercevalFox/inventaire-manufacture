@@ -19,6 +19,11 @@
 | 3      | Assemblage | Jérémy    | Ligne d'assemblage numero 2 |
 | 3      | Assemblage | Mickaël   | Ligne d'assemblage numero 2 |
 | 3      | Assemblage | Solène    | Ligne d'assemblage numero 2 |
+| 4      | Emballage  | Alaric    | Banderoles numero 1         |
+| 4      | Emballage  | Benjamin  | Banderoles numero 2         |
+| 4      | Emballage  | Claire    | Banderoles numero 3         |
+| 4      | Emballage  | Louis     | Banderoles numero 4         |
+| 4      | Emballage  | Thomas    | Banderoles numero 5         |
 
 
 
