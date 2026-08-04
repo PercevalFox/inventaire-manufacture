@@ -15,10 +15,10 @@
 | 2      | Peinture   | Nguyen    | Cabine de peinture numero 3 |
 | 2      | Peinture   | Lorenzo   | Cabine de peinture numero 4 |
 | 2      | Peinture   | Alban     | Cabine de peinture numero 5 |
-| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 2 |
+| 3      | Assemblage | Gautier   | Ligne d'assemblage numero 1 |
 | 3      | Assemblage | Jérémy    | Ligne d'assemblage numero 2 |
-| 3      | Assemblage | Mickaël   | Ligne d'assemblage numero 2 |
-| 3      | Assemblage | Solène    | Ligne d'assemblage numero 2 |
+| 3      | Assemblage | Mickaël   | Ligne d'assemblage numero 3 |
+| 3      | Assemblage | Solène    | Ligne d'assemblage numero 4 |
 
 
 
