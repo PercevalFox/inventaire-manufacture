@@ -7,6 +7,11 @@
 | Groupe | Poste | Pilote | Machine |
 |--------|-------|--------|---------|
 | 0 | Réception | Formateur | Quai A |
+| 1 | Soudure | Jessica | Poste MIG 3 |
+| 1 | Soudure | Abdourahmane | Poste MIG 1 |
+| 1 | Soudure | Gauthier | Poste MIG 2 |
+| 1 | Soudure | Hicham | Poste MIG 4 |
+| 1 | Soudure | Mahery | Poste MIG 5 |
 
 ## Règles de contribution
 
